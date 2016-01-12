@@ -4,10 +4,9 @@
 
 PC 项目
 
-  http://static.tianxia.taobao.com/tbtx/base/css/2.0/base.css
-  http://static.tianxia.taobao.com/tbtx/base/2.5/js/??tbtx.js,combo.js
+  http://static.hpbanking.com/xg/base/css/1.0/reset.css
+  http://static.hpbanking.com/xg/base/js/1.0/??xg.js,combo.js
   
 mobile 项目
 
-  http://static.tianxia.taobao.com/tbtx/base/css/mobile/1.0/base.css
-  http://static.tianxia.taobao.com/tbtx/base/2.5/js/??tbtx.mobile.js,combo.js
+  

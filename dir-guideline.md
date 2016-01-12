@@ -12,9 +12,9 @@
 
 一般只存放css和js文件,压缩过的文件以name.min.ext格式命名
 
-命名法使用连字符式命名法，如tb-fp.js
+命名法使用驼峰式命名法，如investList.js
 
-最终的名字为miiee/main/1.0/css/a.css
+最终的名字为credit/main/1.0/css/a.css
 
 版本小数点后1位即可
 
