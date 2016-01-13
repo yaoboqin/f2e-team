@@ -49,7 +49,7 @@
 
 	/*推荐*/
 	var person = { 
-		name: "credit"
+		name: "credit",
 		age: 16,
 		eat: function(){}
 	}
