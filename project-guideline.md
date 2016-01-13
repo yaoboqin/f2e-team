@@ -2,6 +2,8 @@
 
 ## 基础文件引入
 
+* 原则上所有js/css/font等文件的引用路径均为static.hpbanking.com
+
 ### PC 项目
 
 	http://static.hpbanking.com/xg/base/css/1.0/reset.css
